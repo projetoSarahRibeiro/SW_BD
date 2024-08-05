@@ -1,0 +1,23 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Teste requisição GET",
+    "collectionId": "6d753490-5dfc-47d5-b655-a077154926e3",
+    "dateExported": "2024-08-05T13:54:10.916Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "ac8882a9-f21e-440d-9271-31fbb1a519c1",
+            "colId": "6d753490-5dfc-47d5-b655-a077154926e3",
+            "containerId": "",
+            "name": "GET",
+            "url": "https://localhost://exercico/api.php/alunos/3",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-08-05T12:27:18.111Z",
+            "modified": "2024-08-05T13:43:11.136Z",
+            "headers": []
+        }
+    ],
+    "ref": "r-akDFDzgmjHZW0steHioKg-Y2P48KzCfPV8UHOwfzZv_DWjpoOvqrnb08KXY9sbYlLFRr_JnlcQTpfhvsC30g"
+}
