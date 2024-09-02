@@ -40,7 +40,4 @@ Onde:
 * Extensão MySQLi
 * Um servidor web (Apache, Nginx, etc.)
 
-## Instalação e Configuração
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/ProfAndersonVanin/exercicio.git
+
